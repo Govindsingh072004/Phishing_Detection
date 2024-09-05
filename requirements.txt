@@ -6,3 +6,4 @@ scikit-learn
 nltk
 streamlit
 google.generativeai
+IPython
