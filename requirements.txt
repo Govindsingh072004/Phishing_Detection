@@ -7,3 +7,4 @@ nltk
 streamlit
 google.generativeai
 IPython
+xgboost
